@@ -4,6 +4,8 @@
 [![devDependencies Status](https://david-dm.org/hieunv8/webpack-react-redux-babel-sass-starter/dev-status.svg)](https://david-dm.org/hieunv8/webpack-react-redux-babel-sass-starter?type=dev)
 # Webpack + ReactJS + Redux + Babel + SASS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bogdan-kuternoga/react-test.svg)](https://greenkeeper.io/)
+
 ## Installation
 ```bash
 npm i -g cross-env eslint eslint-plugin-react sass-lint
